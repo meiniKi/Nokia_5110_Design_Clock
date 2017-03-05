@@ -2,6 +2,8 @@
 //              Created by Meinhard Kissich 2017
 //              www.meinhard-kissich.at
 //
+//    have a look at: http://www.thingiverse.com/thing:2155410
+//
 //    This sketch is work in progress (!). It's not finished
 //    and there might be some faults. Further information on
 //    the hardware and casing are comming soon.
