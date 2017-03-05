@@ -198,11 +198,7 @@ void loop() {
     
     if (buttonGreen.state == longPressed && settings.state == normal) 
       settings.state = setTimeHours;
-   
-    
-    
-    
-    
+
   }
   
   if (!settings.state == normal && buttonPressed(BUTTON_BLUE_PIN,true) && millis() - 100 >= tempTime) {
@@ -276,8 +272,6 @@ void updateHomeScreen() {
       u8g.drawBitmap(10,30,2,16,alarmPic);
   }
   while(u8g.nextPage());
-
-  //seconds bar
   
 }
 
